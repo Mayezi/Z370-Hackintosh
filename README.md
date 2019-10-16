@@ -10,9 +10,13 @@
 
 ## 截图
 
-![屏幕快照 2019-10-16 下午9.43.20](screenshots/屏幕快照 2019-10-16 下午9.43.20.png)
+![](screenshots/screenshot1.png)
 
-![](screenshots/屏幕快照 2019-10-16 下午9.44.14.png)
 
-![屏幕快照 2019-10-16 下午9.50.18](screenshots/屏幕快照 2019-10-16 下午9.50.18.png)
+
+![屏幕快照 2019-10-16 下午9.50.18](screenshots/screenshot3.png)
+
+![](screenshots/scrrenshot2.png)
+
+
 
